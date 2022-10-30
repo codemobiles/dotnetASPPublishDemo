@@ -1,0 +1,15 @@
+/Users/chaiyasittayabovorn/Desktop/dotnetDemo1/publish/publish/web.config
+/Users/chaiyasittayabovorn/Desktop/dotnetDemo1/publish/appsettings.Development.json
+/Users/chaiyasittayabovorn/Desktop/dotnetDemo1/publish/appsettings.json
+/Users/chaiyasittayabovorn/Desktop/dotnetDemo1/publish/publish/appsettings.Development.json
+/Users/chaiyasittayabovorn/Desktop/dotnetDemo1/publish/publish/appsettings.json
+/Users/chaiyasittayabovorn/Desktop/dotnetDemo1/publish/publish/dotnetDemo1.deps.json
+/Users/chaiyasittayabovorn/Desktop/dotnetDemo1/publish/publish/dotnetDemo1.runtimeconfig.json
+/Users/chaiyasittayabovorn/Desktop/dotnetDemo1/publish/dotnetDemo1.dll
+/Users/chaiyasittayabovorn/Desktop/dotnetDemo1/publish/dotnetDemo1.deps.json
+/Users/chaiyasittayabovorn/Desktop/dotnetDemo1/publish/dotnetDemo1.runtimeconfig.json
+/Users/chaiyasittayabovorn/Desktop/dotnetDemo1/publish/dotnetDemo1.pdb
+/Users/chaiyasittayabovorn/Desktop/dotnetDemo1/publish/Microsoft.OpenApi.dll
+/Users/chaiyasittayabovorn/Desktop/dotnetDemo1/publish/Swashbuckle.AspNetCore.Swagger.dll
+/Users/chaiyasittayabovorn/Desktop/dotnetDemo1/publish/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/chaiyasittayabovorn/Desktop/dotnetDemo1/publish/Swashbuckle.AspNetCore.SwaggerUI.dll
